@@ -8,8 +8,7 @@
 - SQL
 - Excel (Dashboards, Pivot Tables)
 - Python (Basics)
-- Tableau
-
+  
 ### 📌 Projects
 - Project on Prevent Cyber Bullying in Social Media
 - HR & Sales Data Analysis
