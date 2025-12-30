@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Varun S
 
-<!--
-**senpaivarun2004/senpaivarun2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+📊 Aspiring Data Analyst | SQL | Excel | Tableau  
+🔐 Interested in Cyber Security & Ethical Hacking  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- SQL
+- Excel (Dashboards, Pivot Tables)
+- Python (Basics)
+- Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Project on Prevent Cyber Bullying in Social Media
+- HR & Sales Data Analysis
+- Excel Dashboard Projects
+
+📫 GitHub: https://github.com/senpaivarun2004
