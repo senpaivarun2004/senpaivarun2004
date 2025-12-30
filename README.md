@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Varun S
 
 🎓 BCA Graduate  
-📊 Aspiring Data Analyst | SQL | Excel | Tableau  
-🔐 Interested in Cyber Security & Ethical Hacking  
+📊 Aspiring Data Analyst | SQL | Excel |  
+🔐 Interested in Cyber Security & Ethical Hacking 
 
 ### 🔧 Skills
 - SQL
